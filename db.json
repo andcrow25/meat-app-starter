@@ -370,5 +370,126 @@
       "restaurantId": "tasty-treats"
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "address": "Teste 3",
+      "number": "33",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 2,
+          "menuId": "capp"
+        },
+        {
+          "quantity": 1,
+          "menuId": "espreso"
+        },
+        {
+          "quantity": 1,
+          "menuId": "starb"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "address": "Alemeda 2",
+      "number": "1192",
+      "optionalAddress": "A",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "zlasagna"
+        },
+        {
+          "quantity": 1,
+          "menuId": "greensandwich"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "address": "Teste 005",
+      "number": "5",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "starb"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "address": "Teste 006",
+      "number": "6",
+      "optionalAddress": "",
+      "paymentOption": "DEB",
+      "orderItems": [
+        {
+          "quantity": 7,
+          "menuId": "cup-cake"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "João das Couves",
+      "email": "teste@teste.com",
+      "emailConfirmation": "teste@teste.com",
+      "address": "Teste 007",
+      "number": "007",
+      "optionalAddress": "A",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 2,
+          "menuId": "capp"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "joao das couves",
+      "email": "t@t.com",
+      "emailConfirmation": "t@t.com",
+      "address": "Teste 008",
+      "number": "008",
+      "optionalAddress": "B",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 3,
+          "menuId": "capp"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "Wagner Negão Evangelista Java (Spring)",
+      "email": "negao@generoso.com",
+      "emailConfirmation": "negao@generoso.com",
+      "address": "Avenida 5",
+      "number": "725",
+      "optionalAddress": "A",
+      "paymentOption": "DEB",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "cup-cake"
+        },
+        {
+          "quantity": 2,
+          "menuId": "espreso"
+        },
+        {
+          "quantity": 1,
+          "menuId": "starb"
+        }
+      ],
+      "id": 7
+    }
+  ]
 }

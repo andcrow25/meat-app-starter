@@ -12,7 +12,9 @@
 
 ### Inicializando o Servidor
 
-`ng serve` ou `npm start`
+`ng serve` ou `npm start` ou `ng serve --host=YOUR_IP` 
+
+ - server = `http://localhost:4200/` ou `http://YOUR_IP:4200/`
 
 ## 2. Iniciando o Backend
 
@@ -23,6 +25,8 @@
 ### Iniciando o serviço (raiz da aplicação)
 
 `json-server db.json`
+
+ - Mock REST APIs = http://localhost:3000/
 
 ## Goodies
 

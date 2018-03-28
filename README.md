@@ -26,7 +26,7 @@
 
 `json-server db.json`
 
- - Mock REST APIs = http://localhost:3000/
+ - Mock REST APIs = `http://localhost:3000/`
 
 ## Goodies
 
@@ -89,4 +89,4 @@ Dependências dos pacotes que devem ficar em package.json:
     "webdriver-manager": "12.0.6"
   }
 ```
-## Futuro Upgrade para Angular 5
+ - Futuro upgrade para Angular 5

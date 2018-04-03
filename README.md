@@ -28,6 +28,12 @@
 
  - Mock REST APIs = `http://localhost:3000/`
 
+### Utilizando o Nodemon (install global)
+
+`nodemon --watch backend/dist/server.js`
+
+ - Mock REST APIs = `http://localhost:3001/`
+
 ## Goodies
 
 Expressões regulares usadas na validação de formulários

@@ -30,6 +30,7 @@ export class SnackbarComponent implements OnInit {
 
   message: string;
 
+  // tslint:disable-next-line:no-inferrable-types
   snackVisibility: string = 'hidden';
 
   constructor(private notificationService: NotificationService) { }
